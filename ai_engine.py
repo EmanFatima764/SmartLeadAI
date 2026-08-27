@@ -56,7 +56,7 @@ def process_lead_with_ai(scraped_data: dict) -> dict:
     try:
         # Send our prompt to Gemini and ask it to generate the analysis
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3.6-flash",
             contents=prompt,
         )
 
