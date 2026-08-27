@@ -1,5 +1,9 @@
 import streamlit as st
 import pandas as pd
+import os
+os.system("playwright install chromium")
+os.system("playwright install-deps")
+
 from scraper import scrape_website
 from ai_engine import process_lead_with_ai
 
