@@ -5,3 +5,4 @@ google-auth
 pandas
 python-dotenv
 openpyxl
+google-genai
