@@ -5,4 +5,3 @@ google-auth
 pandas
 python-dotenv
 openpyxl
-playwright install
