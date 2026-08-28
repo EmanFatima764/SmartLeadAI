@@ -4,9 +4,17 @@
 
 ---
 
+## 🚀 Try the Live App
+
+**[→ Launch Smart Lead AI on Streamlit](https://smartleadai.streamlit.app/)** ⭐
+
+Experience the full lead research and email generation workflow in action. Just enter a business website URL!
+
+---
+
 ## 📌 Project Overview
 
-Smart Lead AI automates the lead research and outreach workflow. Traditional lead research is time-consuming and repetitive—visiting websites, gathering business information, analyzing company operations, and crafting personalized cold emails. 
+Smart Lead AI automates the lead research and outreach workflow. Traditional lead research is time-consuming and repetitive—visiting websites, gathering business information, analyzing company operations, and drafting personalized emails can take 15-20 minutes per prospect.
 
 Smart Lead AI solves this by automating the entire pipeline:
 
@@ -124,7 +132,7 @@ SmartLeadAI/
 ┌─────────────────────────────────┐
 │   Playwright Browser Launch     │
 │   (Headless Chromium)           │
-└────────────┬────────────────────┘
+└────────────┬─────���──────────────┘
              │
              ▼
 ┌─────────────────────────────────┐
@@ -219,11 +227,11 @@ Smart Lead AI stores all researched leads in a shared Google Sheet for team coll
 
 ```
 Service Account Credentials (credentials.json)
-              ↓
+               ↓
 Google OAuth 2.0 (Service Account)
-              ↓
+               ↓
 Google Sheets API (gspread)
-              ↓
+               ↓
 Append Lead Row to Sheet
 ```
 
@@ -257,7 +265,7 @@ Append Lead Row to Sheet
 
 ## ⚙️ Installation Guide
 
-### 1️⃣ Clone Repository
+### 1���⃣ Clone Repository
 
 ```bash
 git clone https://github.com/EmanFatima764/SmartLeadAI.git
@@ -418,11 +426,11 @@ Title: Example Domain
 Meta Description: Illustration domain for documents
 AI Analysis & Pitch:
 
-1. **Summary:** Example.com provides a reference domain for illustrative purposes in technical documentation and internet standards. It's used globally as a standard placeholder for examples and demonstrations.
+1. **Summary:** Example.com provides a reference domain for illustrative purposes in technical documentation and internet standards. It's used globally as a standard placeholder for examples and [...]
 
-2. **Pain Point:** As a non-commercial informational domain, Example.com lacks monetization opportunities and advanced feature development that could enhance its utility for developers and technical writers.
+2. **Pain Point:** As a non-commercial informational domain, Example.com lacks monetization opportunities and advanced feature development that could enhance its utility for developers and techni[...]
 
-3. **Personalized Email Pitch:** I noticed Example.com is the go-to reference domain for millions of developers worldwide. Could we explore creating premium documentation templates or certification programs to unlock new revenue streams? I'd love to discuss how we could help make Example.com even more valuable for your global audience.
+3. **Personalized Email Pitch:** I noticed Example.com is the go-to reference domain for millions of developers worldwide. Could we explore creating premium documentation templates or certificati[...]
 ```
 
 ---
@@ -476,6 +484,7 @@ This project is open source. Check the repository for license details.
 
 ## 🔗 Quick Links
 
+- [🚀 Live App](https://smartleadai.streamlit.app/) — Try it now!
 - [Google AI Studio](https://aistudio.google.com/) — Get Gemini API key
 - [Google Cloud Console](https://console.cloud.google.com/) — Set up service account
 - [Playwright Docs](https://playwright.dev/) — Browser automation reference
