@@ -6,7 +6,7 @@
 
 ## 🚀 Try the Live App
 
-**[→ Launch Smart Lead AI on Streamlit](https://smartleadai.streamlit.app/)** ⭐
+**[→ Launch Smart Lead AI on Streamlit](https://smartleadai-wws2riguac5x9gjxbldypd.streamlit.app/)** ⭐
 
 Experience the full lead research and email generation workflow in action. Just enter a business website URL!
 
